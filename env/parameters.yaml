@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jxrocks/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: deanmax@gmail.com
+  token: local:jxrocks/pipelineUser:token
+  username: deanmax
+prow:
+  hmacToken: local:jxrocks/prow:hmacToken
