@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/deanmax/FlaskAPP.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: deanmax
+  repo: skiapp
+  url: https://github.com/deanmax/skiapp.git
+  version: ""
+  versionURL: ""
