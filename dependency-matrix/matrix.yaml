@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: deanmax
+  repo: widgetsweb
+  url: https://github.com/deanmax/widgetsweb.git
+  version: ""
+  versionURL: ""

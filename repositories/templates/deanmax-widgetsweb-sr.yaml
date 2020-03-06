@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: deanmax
+    provider: github
+    repository: widgetsweb
+  name: deanmax-widgetsweb
+spec:
+  description: Imported application for deanmax/widgetsweb
+  httpCloneURL: https://github.com/deanmax/widgetsweb.git
+  org: deanmax
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: widgetsweb
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/deanmax/widgetsweb.git
